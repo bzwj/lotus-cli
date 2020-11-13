@@ -11,7 +11,7 @@ lotus-miner run [command options] [arguments...]
 ## 命令行选项
 
 ```
-   --miner-api value     2345
+   --miner-api value     :2345
    
    --enable-gpu-proving  启用GPU进行挖掘操作(默认值:true)
    
