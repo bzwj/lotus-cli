@@ -10,7 +10,7 @@ lotus-miner sectors remove [command options] <sectorNum>
 
 ## 命令行选项
 
-```
+```shell
    --really-do-it  如果你知道你在干嘛 - 请略过此选项 (默认: false)
    --help, -h      显示帮助 (默认: false)
 ```

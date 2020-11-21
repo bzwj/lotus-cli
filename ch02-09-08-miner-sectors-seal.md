@@ -4,13 +4,13 @@
 
 ## 使用格式
 
-```sh
+```shell
 lotus-miner sectors seal [command options] <sectorNum>
 ```
 
 ## 命令行选项
 
-```
+```shell
 --help, -h  show help (default: false)
 ```
 
